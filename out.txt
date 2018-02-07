@@ -1,0 +1,3 @@
+== Reporte de entregas ==
+Se ha detenido el avance por salir de los límites
+(0, 9) dirección Norte
